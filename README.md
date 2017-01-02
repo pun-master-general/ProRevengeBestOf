@@ -1,2 +1,3 @@
 # ProRevengeBestOf
-Script for /r/ProRevenge Best of
+
+Used to return the top three nominations in each category for /r/ProRevenge's Best of 2016 awards.
